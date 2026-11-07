@@ -1,6 +1,5 @@
-# README – Kuwait IMF Report Analysis
+# Kuwait IMF Report Analysis
 
-**Student ID:** 24152164  
 **Module:** Data Analysis with AI – LLM  
 **Country:** Kuwait  
 **Dataset:** IMF 2025 Article IV Consultation Report
